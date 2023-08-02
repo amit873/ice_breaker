@@ -13,3 +13,7 @@ pipenv shell
 
 ## Install Langchain
 pipenv install langchain
+
+## Run New Python File
+python3 --version
+python3 ice_breaker.py
